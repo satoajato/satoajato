@@ -11,6 +11,7 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Tecnologias que eu ja utilizei</h1>
+    <img align="center" height="30" width="40" alt="sap-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SAP-Logo.svg/743px-SAP-Logo.svg.png?20120426114443">
     <img align="center" height="30" width="40" alt="flutter-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img align="center" height="30" width="40" alt="java-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" height="30" width="40" alt="python-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
